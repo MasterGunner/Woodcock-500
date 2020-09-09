@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<Airport country="Canada" state="British Columbia" city="Cedarvale" name="Woodcock Airport" ident="CBQ8" lat="55.06278900000000" lon="-128.23342099999999" alt="164.00000000000000" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="TRUE" isOnTIN="FALSE">
+		<TaxiName index="0" name=""/>
+		<Runway lat="55.06264871536447" lon="-128.23377707203656" alt="164.01014054752886" heading="50.32690048217773" length="1509.96716308593750" width="60.00000000000000" patternAltitude="1099.00000000000000" surface="{2E0DE83F-B79A-4435-905C-DCBBEAC55C59}" transparent="FALSE" number="02" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
+			<Markings edges="TRUE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="TRUE" ident="TRUE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
+			<Lights center="NONE" edge="NONE"/>
+			<RunwayStart end="PRIMARY" lat="55.06264871518683" lon="-128.23377707204085" alt="164.01011204626411" heading="20.24352645874023"/>
+			<RunwayStart end="SECONDARY" lat="55.06264871518683" lon="-128.23377707204085" alt="164.01011204626411" heading="20.24352645874023"/>
+		</Runway>
+		<Aprons/>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+	</Airport>
+</FSData>
+
