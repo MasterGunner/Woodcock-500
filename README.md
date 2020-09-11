@@ -1,5 +1,7 @@
 # Woodcock-500
 
+[v0.1 Direct Download Link](https://github.com/MasterGunner/Woodcock-500/releases/download/v0.1-alpha/mastergunner-woodcock500.zip)
+
 A mod for MS Flight Sim 2020 that adds in Woodcock Airport, a now-defunct airport in Northern BC, as seen on LoadingReadyRun's Road Quest:https://www.youtube.com/watch?v=-6xILrbZkVw
 
 Instructions on how to install Microsoft Flight Simulator 2020 mods can be found here: http://www.allflightmods.com/how-to-install-microsoft-flight-simulator-2020-mods/
